@@ -4,7 +4,7 @@ This is a detailed guide for bypassing roblox in Russia./Это подробны
 RU Guide
 
 Чтобы обойти блокировку скачайте мой обход и делайте все по инструкции
-https://drive.google.com/drive/folders/19qJ5PnR3gCYm5D-kgEuaX-uFvf4v1rGP?usp=sharing качаем обход по данной ссылке (еще прикрепил файл здесь) и скачаный файл переносим на рабочий стол ( обязательно )
+https://drive.google.com/drive/folders/19qJ5PnR3gCYm5D-kgEuaX-uFvf4v1rGP?usp=sharing качаем обход по данной ссылке (еще прикрепил файл здесь на гитхабе) и скачаный файл переносим на рабочий стол ( обязательно )
 дальше мы заходим с вами в папку Lists и открываем файл list-general и листаем в самый низ, после чего добавляем 4 доменна (roblox.com / titanium.roblox.com / edge-term4.roblox.com / edge-term4-fra4.roblox.com) 
 после добавления доменов выходим из папки lists и открываем servis (от им. админа)
 у нас появляется командная строка в которой содержатся 9 пунктов, сейчас нам нужны 6-й и 7-й пункты (game filter и ipset) 
