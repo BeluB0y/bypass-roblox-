@@ -1,0 +1,26 @@
+# bypass-roblox-
+This is a detailed guide for bypassing roblox in Russia./Это подробный гайд для обхода роблокса в россии/
+
+RU Guide
+
+Чтобы обойти блокировку скачайте мой обход и делайте все по инструкции
+https://drive.google.com/drive/folders/19qJ5PnR3gCYm5D-kgEuaX-uFvf4v1rGP?usp=sharing качаем обход по данной ссылке и скачаный файл переносим на рабочий стол ( обязательно )
+дальше мы заходим с вами в папку Lists и открываем файл list-general и листаем в самый низ, после чего добавляем 4 доменна (roblox.com / titanium.roblox.com / edge-term4.roblox.com / edge-term4-fra4.roblox.com) 
+после добавления доменов выходим из папки lists и открываем servis (от им. админа)
+у нас появляется командная строка в которой содержатся 9 пунктов, сейчас нам нужны 6-й и 7-й пункты (game filter и ipset) 
+вы должны нажать цифру 6 и Enter чтобы в строке с Game Filter в скобках появилась надпись Enabled
+после чего жмем так же на цифру 7 несколько раз чтобы в строке с Iptest в скобках была надпись Any
+после того как вы выпонили предыдущие условия открывайте первый раздел (install service) и устанавливайте батник под номером 17 (жмите на клавиатуре 17 и Enter)
+вот и все, если у вас не получилось то вы еблан и перечитайте гайд
+
+EN Guide 
+
+To bypass the lock, download my bypass and follow the instructions.
+https://drive.google.com/drive/folders/19qJ5PnR3gCYm5D-kgEuaX-uFvf4v1rGP?usp=sharing we download the crawl using this link and transfer the downloaded file to the desktop (required )
+then we go with you to the Lists folder and open the list-general file and scroll to the bottom, after which we add 4 domains (roblox.com / titanium.roblox.com / edge-term4.roblox.com / edge-term4-fra4.roblox.com )
+after adding the domains, exit the lists folder and opening the service (from the name of the admin)
+we have a command line that contains 9 items, now we need the 6th and 7th items (game filter and ipset)
+. you must press the number 6 and Enter so that the inscription Enabled appears in parentheses in the line with the Game Filter
+, after which we also press the number 7 several times so that in the line with Iptest in parentheses was the inscription Any
+after you fulfilled the previous conditions, open the first section (install service) and install the batch file at number 17 (press 17 and Enter on the keyboard)
+that's all, if you didn't succeed, then you're fucked and reread the guide
